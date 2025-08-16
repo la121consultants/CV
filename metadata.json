@@ -1,0 +1,6 @@
+{
+  "name": "LA121 AI CV Review",
+  "description": "Upload your CV and a job description to receive an updated CV tailored by an AI expert, available for download in PDF and Word formats.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
